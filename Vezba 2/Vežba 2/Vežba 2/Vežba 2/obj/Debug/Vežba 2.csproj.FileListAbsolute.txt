@@ -1,0 +1,41 @@
+C:\Users\Sinisa\Desktop\Vežba 2\Vežba 2\Vežba 2\bin\Debug\Vežba 2.exe.config
+C:\Users\Sinisa\Desktop\Vežba 2\Vežba 2\Vežba 2\bin\Debug\Vežba 2.exe
+C:\Users\Sinisa\Desktop\Vežba 2\Vežba 2\Vežba 2\bin\Debug\Vežba 2.pdb
+C:\Users\Sinisa\Desktop\Vežba 2\Vežba 2\Vežba 2\obj\Debug\Vežba 2.csprojAssemblyReference.cache
+C:\Users\Sinisa\Desktop\Vežba 2\Vežba 2\Vežba 2\obj\Debug\MainWindow.g.cs
+C:\Users\Sinisa\Desktop\Vežba 2\Vežba 2\Vežba 2\obj\Debug\App.g.cs
+C:\Users\Sinisa\Desktop\Vežba 2\Vežba 2\Vežba 2\obj\Debug\Vežba 2_MarkupCompile.cache
+C:\Users\Sinisa\Desktop\Vežba 2\Vežba 2\Vežba 2\obj\Debug\Vežba 2_MarkupCompile.lref
+C:\Users\Sinisa\Desktop\Vežba 2\Vežba 2\Vežba 2\obj\Debug\MainWindow.baml
+C:\Users\Sinisa\Desktop\Vežba 2\Vežba 2\Vežba 2\obj\Debug\Vežba 2.g.resources
+C:\Users\Sinisa\Desktop\Vežba 2\Vežba 2\Vežba 2\obj\Debug\Vežba_2.Properties.Resources.resources
+C:\Users\Sinisa\Desktop\Vežba 2\Vežba 2\Vežba 2\obj\Debug\Vežba 2.csproj.GenerateResource.cache
+C:\Users\Sinisa\Desktop\Vežba 2\Vežba 2\Vežba 2\obj\Debug\Vežba 2.csproj.CoreCompileInputs.cache
+C:\Users\Sinisa\Desktop\Vežba 2\Vežba 2\Vežba 2\obj\Debug\Vežba 2.exe
+C:\Users\Sinisa\Desktop\Vežba 2\Vežba 2\Vežba 2\obj\Debug\Vežba 2.pdb
+C:\Users\Sinisa\Desktop\Vežba 2\Vežba 2\Vežba 2\obj\Debug\Stranice\Page1.g.cs
+C:\Users\Sinisa\Desktop\Vežba 2\Vežba 2\Vežba 2\obj\Debug\Stranice\Page2.g.cs
+C:\Users\Sinisa\Desktop\Vežba 2\Vežba 2\Vežba 2\obj\Debug\Stranice\Page3.g.cs
+C:\Users\Sinisa\Desktop\Vežba 2\Vežba 2\Vežba 2\obj\Debug\Stranice\Page1.baml
+C:\Users\Sinisa\Desktop\Vežba 2\Vežba 2\Vežba 2\obj\Debug\Stranice\Page2.baml
+C:\Users\Sinisa\Desktop\Vežba 2\Vežba 2\Vežba 2\obj\Debug\Stranice\Page3.baml
+X:\Projektovanje softvera\Vezba 2\Vežba 2\Vežba 2\Vežba 2\bin\Debug\Vežba 2.exe.config
+X:\Projektovanje softvera\Vezba 2\Vežba 2\Vežba 2\Vežba 2\obj\Debug\Vežba 2.exe
+X:\Projektovanje softvera\Vezba 2\Vežba 2\Vežba 2\Vežba 2\obj\Debug\Vežba 2.pdb
+X:\Projektovanje softvera\Vezba 2\Vežba 2\Vežba 2\Vežba 2\bin\Debug\Vežba 2.exe
+X:\Projektovanje softvera\Vezba 2\Vežba 2\Vežba 2\Vežba 2\bin\Debug\Vežba 2.pdb
+X:\Projektovanje softvera\Vezba 2\Vežba 2\Vežba 2\Vežba 2\obj\Debug\Vežba 2.csprojResolveAssemblyReference.cache
+X:\Projektovanje softvera\Vezba 2\Vežba 2\Vežba 2\Vežba 2\obj\Debug\MainWindow.g.cs
+X:\Projektovanje softvera\Vezba 2\Vežba 2\Vežba 2\Vežba 2\obj\Debug\Stranice\Page1.g.cs
+X:\Projektovanje softvera\Vezba 2\Vežba 2\Vežba 2\Vežba 2\obj\Debug\Stranice\Page2.g.cs
+X:\Projektovanje softvera\Vezba 2\Vežba 2\Vežba 2\Vežba 2\obj\Debug\Stranice\Page3.g.cs
+X:\Projektovanje softvera\Vezba 2\Vežba 2\Vežba 2\Vežba 2\obj\Debug\App.g.cs
+X:\Projektovanje softvera\Vezba 2\Vežba 2\Vežba 2\Vežba 2\obj\Debug\Vežba 2_MarkupCompile.cache
+X:\Projektovanje softvera\Vezba 2\Vežba 2\Vežba 2\Vežba 2\obj\Debug\Vežba 2_MarkupCompile.lref
+X:\Projektovanje softvera\Vezba 2\Vežba 2\Vežba 2\Vežba 2\obj\Debug\MainWindow.baml
+X:\Projektovanje softvera\Vezba 2\Vežba 2\Vežba 2\Vežba 2\obj\Debug\Stranice\Page1.baml
+X:\Projektovanje softvera\Vezba 2\Vežba 2\Vežba 2\Vežba 2\obj\Debug\Stranice\Page2.baml
+X:\Projektovanje softvera\Vezba 2\Vežba 2\Vežba 2\Vežba 2\obj\Debug\Stranice\Page3.baml
+X:\Projektovanje softvera\Vezba 2\Vežba 2\Vežba 2\Vežba 2\obj\Debug\Vežba 2.g.resources
+X:\Projektovanje softvera\Vezba 2\Vežba 2\Vežba 2\Vežba 2\obj\Debug\Vežba_2.Properties.Resources.resources
+X:\Projektovanje softvera\Vezba 2\Vežba 2\Vežba 2\Vežba 2\obj\Debug\Vežba 2.csproj.GenerateResource.Cache

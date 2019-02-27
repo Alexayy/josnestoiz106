@@ -1,0 +1,29 @@
+﻿<Window x:Class="Vežba_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Vežba_2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="720" Width="1080"
+        MinHeight="500" MinWidth="300" Background="{DynamicResource {x:Static SystemColors.GradientInactiveCaptionBrushKey}}">
+    <Border Padding="20">
+        <StackPanel>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Button x:Name="Btn1" Margin="0 0 10 0" Grid.Column="0" Content="new" Background="{DynamicResource {x:Static SystemColors.ActiveCaptionBrushKey}}" Click="Btn1_Click"/>
+                <Button x:Name="Btn2" Grid.Column="1" Content="info" Background="{DynamicResource {x:Static SystemColors.ActiveCaptionBrushKey}}" Click="Btn2_Click"/>
+                <Button x:Name="Btn3" Margin="10 0 0 0" Grid.Column="2" Content="video" Background="{DynamicResource {x:Static SystemColors.ActiveCaptionBrushKey}}" Click="Btn3_Click"/>
+            </Grid>
+            <TextBlock Text="Vezba 2." TextAlignment="Center" FontWeight="Bold" Margin="0 10" Padding="5" FontSize="36" Background="{DynamicResource {x:Static SystemColors.InfoBrushKey}}"/>
+            <TextBlock Text="wow" TextAlignment="Center" Padding="5" FontSize="13.333" Background="{DynamicResource {x:Static SystemColors.AppWorkspaceBrushKey}}" Cursor="Wait" ToolTip="WoW" FontFamily="Comic Sans MS"/>
+            <TextBox Padding="5" Background="{DynamicResource {x:Static SystemColors.ActiveCaptionBrushKey}}"/>
+            <Frame x:Name="main" Height="467" NavigationUIVisibility="Hidden"/>
+        </StackPanel>
+    </Border>
+
+</Window>
